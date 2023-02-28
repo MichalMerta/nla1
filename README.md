@@ -26,3 +26,5 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 
 ## Průběh semestru
 1) Informace o předmětu, opakování pojmů lineární algebry.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=605260117&machine=basicLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope)
