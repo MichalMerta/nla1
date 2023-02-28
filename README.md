@@ -27,4 +27,8 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 ## Průběh semestru
 1) Informace o předmětu, opakování pojmů lineární algebry.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=605260117&machine=basicLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope)
+## Github Cospaces
+
+V případě problémů se zprovozněním Pythonu lokálně na vašem stroji nebo ve Virtualboxu můžete použít cloudovou službu Github Codespaces. Jako studenti máte k dispozici 120 hodin zdarma měsíčně. Abyste ušetřili čas, nezapomeňte po každém použití vypnout cloudový virtuální stroj, se kterým pracujete (Github -> Codespaces -> Owned by ... -> ... -> Stop). Defaultně se vypne automaticky po 30 minutách nevyužívání. Více [zde](https://docs.github.com/en/enterprise-cloud@latest/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces).
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=605260117&machine=basicLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestEurope  )
