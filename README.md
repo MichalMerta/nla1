@@ -26,6 +26,7 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 
 ## Průběh semestru
 1) Informace o předmětu, opakování pojmů lineární algebry.
+2) Metoda konečných diferencí, řešení soustav lineárních rovnic.
 
 ## Github Codespaces
 
