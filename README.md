@@ -29,6 +29,7 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 2) Metoda konečných diferencí, řešení soustav lineárních rovnic.
 3) LU rozklad.
 4) LDMT, LDLT, Choleského rozklad, výpočetní náročnosti.
+5) Lineární iterační řešiče (Jacobi, Gauss-Seidel, Richardson).
 
 ## Github Codespaces
 
