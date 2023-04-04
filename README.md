@@ -18,7 +18,7 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 - [Materiály na webu MI21](http://mi21.vsb.cz/modul/linearni-algebra-s-matlabem)
 - Golub, G., van Loan, C. F. Matrix Computations. The John Hopkins University Press 1996.
 - Trefethen, L. N., Bau, D. Numerical Linear Algebra. SIAM 1997.
-- [Dokumentace k Pythonu](Trefethen, L. N., Bau, D. Numerical Linear Algebra. SIAM 1997.)
+- [Dokumentace k Pythonu](https://docs.python.org/3/)
 - [Dokumentace k NumPy](https://numpy.org/doc/stable/reference/index.html)
 
 ## Konzultace
@@ -30,6 +30,7 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 3) LU rozklad.
 4) LDMT, LDLT, Choleského rozklad, výpočetní náročnosti.
 5) Lineární iterační řešiče (Jacobi, Gauss-Seidel, Richardson).
+6) Gradientní iterační řešiče (metoda největšího spádu, metoda sdružených gradientů)
 
 ## Github Codespaces
 
