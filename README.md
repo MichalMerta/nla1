@@ -31,6 +31,7 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 4) LDMT, LDLT, Choleského rozklad, výpočetní náročnosti.
 5) Lineární iterační řešiče (Jacobi, Gauss-Seidel, Richardson).
 6) Gradientní iterační řešiče (metoda největšího spádu, metoda sdružených gradientů)
+7) Předpodmínění. QR rozklad.
 
 ## Github Codespaces
 
