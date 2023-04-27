@@ -32,7 +32,7 @@ Repozitář s materiály a informacemi k předmětu Numerická lineární algebr
 5) Lineární iterační řešiče (Jacobi, Gauss-Seidel, Richardson).
 6) Gradientní iterační řešiče (metoda největšího spádu, metoda sdružených gradientů)
 7) Předpodmínění. QR rozklad.
-8) Aplikace QR rozkladu, mocninná metoda.
+8) Aplikace QR rozkladu (metoda nejmenších čtverců, spektrální rozklad).
 
 ## Github Codespaces
 
